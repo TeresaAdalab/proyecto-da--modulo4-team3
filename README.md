@@ -36,6 +36,5 @@ Análisis y Visualización en Tableau/Power BI: Creación de dashboards interact
 
 ## 📋 Equipo
 
-El proyecto ha sido creado por: Luana Magnabosco, Vanesa Diaz, Reyes Altozano y https://github.com/TeresaAdalab
-
+El proyecto ha sido creado por: Luana Magnabosco, Vanesa Diaz, Reyes Altozano y Teresa García
 
