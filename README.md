@@ -9,10 +9,11 @@ Además, usaremos Power BI para  crear visualizaciones interactivas y atractivas
 ## 🗂️ Fases del Proyecto
 
 ### 🔍 Fase 1: Transformación de los Datos
-Realizar la limpieza, normalización, conversión de tipos de datos y aplicación de reglas empresariales específicas para preparar los datos para el análisis. Esto incluye:
+Realizar limpieza, normalización, conversión de tipos de datos y aplicación de reglas empresariales específicas para preparar los datos para el análisis del negocio. Esto incluye:
 - Convertir columnas de tipo string a tipo numérico donde sea necesario.
 - Eliminar valores duplicados y corregir valores inconsistentes.
 - Eliminar columnas redundantes.
+- Tratamiento de valores nulos.
 
 ### 🛠️ Fase 2: Identificar patrones y causas de cancelaciones de reservas mediante un análisis exploratorio de datos (EDA).
 
