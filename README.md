@@ -2,6 +2,7 @@
 
 Con el objetivo de reducir la cancelación en un grupo de hoteles vamos a explorar y limpiar un conjunto de datos ,identificando patrones y determinando las mejores prácticas para la limpieza y
 transformación de datos.  
+
 Además, usaremos Power BI para  crear visualizaciones interactivas y atractivas que contarán historias con dato y así poder comunicar de manera efectiva y persuasiva los insights obtenidos durante el análisis y limpieza previo.
 
 
